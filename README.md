@@ -103,7 +103,8 @@ HR-Attrition-Analysis/
 │
 ├── report/
 │   └── HR_Attrition_Project_Report.pdf
-│
+│   └──HR_Attrition_Prevention_Suggestions.pdf 
+|
 └── README.md
 ```
 
@@ -113,7 +114,7 @@ HR-Attrition-Analysis/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/HR-Attrition-Analysis.git
+git clone https://github.com/jayanthb2005/HR-Attrition-Analysis.git
 ```
 
 2. Open `notebook/HR_Analytics_Predict_Employee_Attrition.ipynb` in Google Colab
@@ -144,5 +145,6 @@ git clone https://github.com/your-username/HR-Attrition-Analysis.git
 
 ## 👤 Author
 
-**Jayanth**
+**Jayanth B**
+
 Data Analyst Intern — Elevate Labs
